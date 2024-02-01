@@ -1,6 +1,6 @@
 # House-sales-dashboard-Tableau
 # King County House Sales Data Dashboard
-![Dashboard Preview](url/to/your/image.png)
+![Dashboard Preview](https://github.com/JagadishMamidishetty/House-sales-dashboard-Tableau/blob/main/KingCountyHouseSale%20tableau.png)
 
 ## Overview
 
